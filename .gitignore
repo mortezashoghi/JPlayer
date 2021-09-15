@@ -1,4 +1,6 @@
 /data/*
+/node_modules
 *.mp3
 *.zip
 *.rar
+/node_modules/*
